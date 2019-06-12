@@ -1,0 +1,2 @@
+# Lagmanhost
+Prepare your phone 
