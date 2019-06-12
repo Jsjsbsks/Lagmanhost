@@ -6,11 +6,19 @@ Apt update
 
 Apt upgrade
 
+Pkg install python2
+
 Pkg install Git
 
 Git clone https://github.com/lorencehost/wifi-hacker
 
 Chmod +x wifi-hacker.sh
+
+Python wifi-hacker.Py
+
+
+
+
 
 
 
